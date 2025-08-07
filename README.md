@@ -40,8 +40,8 @@ The application uses a **sequential brute force** method to attempt unlocking PD
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd project
+   git clone https://github.com/dbaidya811/PDF-Unlocker.git
+   cd PDF-Unlocker
    ```
 
 2. Install dependencies:
